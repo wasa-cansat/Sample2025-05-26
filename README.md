@@ -10,7 +10,7 @@
 2. 緑色の「Code」ボタンをクリックします。
    ![Code Button](https://docs.github.com/assets/cb-20363/images/help/repository/code-button.png)
 3. 「Download ZIP」オプションを選択します。
-   ![Download ZIP](https://docs.github.com/assets/cb-49764/images/help/repository/download-code-button.png)
+   ![Download ZIP](https://github.com/wasa-cansat/Sample2025-05-26/archive/refs/heads/main.zip)
 4. ダウンロードしたZIPファイルを適当な場所に展開します。
 5. Arduino IDEで `.ino` ファイルを開きます。
 
